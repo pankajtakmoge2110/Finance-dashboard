@@ -58,6 +58,22 @@ variables so the whole app transitions smoothly.
 
 ---
 
+## Screenshots
+
+### Light Mode
+![Dashboard Light](screenshots/dashboard-light.png)
+
+### Dark Mode
+![Dashboard Dark](screenshots/dashboard-dark.png)
+
+### Transactions
+![Transactions](screenshots/transactions.png)
+
+### Add Transaction Modal
+![Modal](screenshots/modal.png)
+
+---
+
 ## Folder structure
 
 src/

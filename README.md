@@ -5,7 +5,7 @@ I built a finance dashboard where users can track their income,
 expenses and get a basic overview of their spending habits.
 
 ---
-
+ 
 ## How to run it
 
 Make sure you have Node.js installed, then:

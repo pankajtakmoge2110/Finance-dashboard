@@ -83,7 +83,6 @@ src/
 ├── index.css         all styles
 └── App.jsx           main layout
 
----
 
 ## Notes
 

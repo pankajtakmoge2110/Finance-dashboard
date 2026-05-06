@@ -92,7 +92,7 @@ src/
 - Amounts are in Indian Rupees
 - Data resets on page refresh
 
----
+
 
 ## Assumptions I made
 
@@ -100,6 +100,6 @@ I assumed the role switching did not need any authentication and
 could just be a simple dropdown for demo purposes. I also assumed
 static data was fine since the brief said backend is not required.
 
----
+
 
 Made by [Pankaj Takmoge]
